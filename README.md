@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Bug9519.
 - 👀 I’m interested in coding/programming.
 - 🌱 I’m currently learning HTML/CSS.
-- 💞️ I’m looking to collaborate on nothing at the moment, too busy doing my own stuff.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   - ![Signal Messenger App Icon](https://lh3.googleusercontent.com/l2UcWONe0L_UWIIuD3zTgwNRaW9n6cmJdofaEV2LD6U4Ngg8YiUs2wUD9EU8xo2ne9w=s22) (Signal number will be available upon request, as it's my main phone number, and I don't want it posted on the Internet for just anyone to use.)
   - ![Telegram Messenger App Icon](https://lh3.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=s22) https://t.me/Bug9519 (Telegram)
