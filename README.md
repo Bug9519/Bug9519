@@ -1,5 +1,6 @@
 # Welcome to my profile!
 - 👋 Hi, I’m Bug9519..
+- 🇦🇺 I am Australian.
 - 👀 I’m interested in coding/programming.
 - 🌱 I’m currently learning HTML/CSS.
 - 💞️ I’m looking to collaborate on ...
