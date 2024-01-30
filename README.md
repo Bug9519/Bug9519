@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=666&lines=Hello.;I+am+Bug9519%2C+welcome+to+my+GitHub+Profile.)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Bug9519..
-- 🇦🇺 I am Australian.
+- 🇦🇺 I am Australian, which automatically makes me cool 😉
 - 👀 I’m interested in coding/programming.
 - 🌱 I’m currently learning HTML/CSS.
 - 📫 How to reach me:
