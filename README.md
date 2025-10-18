@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=666&lines=Hello.;I+am+Bug9519%2C+welcome+to+my+GitHub+Profile.)](https://git.io/typing-svg)
 
-![Frank, my pet Pug on tatsu](https://github.com/Bug9519/Bug9519/blob/320d208007202d69bb13e0adbdc509b932cbbf50/pet.gif) <- my tatsu discord pet, Frank.
+![Frank, my pet Pug on tatsu](https://github.com/Bug9519/Bug9519/blob/320d208007202d69bb13e0adbdc509b932cbbf50/pet.gif) <- my [tatsu](https://tatsu.gg) discord pet, Frank. Frank is a Pug, and he's wearing his hockey mask for Halloween.
 - 👋 Hi, I’m Bug9519..
 - 🇦🇺 I am Australian, which automatically makes me cool 😉
 - 👀 I’m interested in coding/programming.
